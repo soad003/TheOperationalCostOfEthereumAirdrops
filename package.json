@@ -1,0 +1,17 @@
+{
+  "name": "simulations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simulation.js",
+  "dependencies": {
+    "ethereumjs-vm": "^3.0.0",
+    "ganache-cli": "^6.4.4",
+    "web3": "^1.0.0-beta.37"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
