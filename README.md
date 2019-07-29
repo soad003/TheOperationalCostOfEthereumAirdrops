@@ -18,14 +18,14 @@ To run the simulation:
 chmod u+x run_simulation.sh
 ./run_simulation.sh
 ```
-Output of the simulation is already computed and can be used without rerun.
+Output of the simulation is already computed and can be used without rerun:
 ```
 simulation.csv
 ```
 
 ### Visualizing experiment data
 
-Simulation and plotting as well as the tikz export is made in the following notebook. 
+Visualization code as well as the tikz export can be found in the following (Jupyter/ipython) notebook. 
 
 ```
 airdrops_simulation_gh.ipynb
