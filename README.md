@@ -2,7 +2,7 @@
 
 # The Operational Cost of Ethereum Airdrops
 
-This repo contains the simulation and visualization code of the following paper:.
+This repo contains the simulation and visualization code of the following paper: https://arxiv.org/submit/2784902.
 
 
 ### Installation
@@ -47,5 +47,5 @@ tqdm
 ### BibTeX entry
 
 ```
-
+announced soon
 ```
